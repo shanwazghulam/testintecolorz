@@ -334,7 +334,7 @@ footer ul li a {
   }
 
   .nav-ul {
-    display: inline;
+    display: block;
     position: fixed;
     top: 60px;
     left: -100%;
